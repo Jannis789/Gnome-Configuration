@@ -33,7 +33,7 @@ Firefox Configuration
 </font>
 
 * Copy ````/usr/share/pipewire/pipewire.conf```` to ````~/.config/pipewire```` 
-* add content from [context.modules](https://gitlab.freedesktop.org/pipewire/pipewire/-/blob/master/src/daemon/filter-chain/sink-virtual-surround-7.1-hesuvi.conf) into the ````pipewire.cong````
+* add content from [context.modules](https://gitlab.freedesktop.org/pipewire/pipewire/-/blob/master/src/daemon/filter-chain/sink-virtual-surround-7.1-hesuvi.conf) into the ````pipewire.conf````
 * Download a convolver file with .wav format and replace it with ````hrir_hesuvi/hrir.wav```` (use full path to specify) in pipewire.conf
 * reboot PC
 
@@ -56,5 +56,5 @@ Extension List:
 * [Blur my Shell](https://github.com/aunetx/blur-my-shell) - Gnome extension for optimizing the Gnome look
 * [Caffeine](https://github.com/ben-manes/caffeine) - Gnome extension to prevent screensaver from quick menu if needed
 * [Code - OSS](https://github.com/microsoft/vscode) - IDE
-* [Impression](https://apps.gnome.org/de/Impression/) - to make boorable USBs
+* [Impression](https://apps.gnome.org/de/Impression/) - to make bootable USBs
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger) manipulates PDF files
