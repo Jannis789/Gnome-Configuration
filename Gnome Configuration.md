@@ -12,7 +12,7 @@ Gnome Theme: [Magnetic](https://github.com/vinceliuice/Magnetic-gtk-theme)
 
 <font size="2">
 
-* Configuration Command: ```` ./install.sh -c dark -l --tweaks dracula outline ````
+* Configuration Command: ```` ./install.sh -c dark -l --tweaks dracula outline --libadwaita ````
 * Problems: Not all application corners have overflow hidden.
 	* Add ````export GTK_THEME=Magnetic-Dark-Dracula```` in /etc/enviroment if some apps wont apply the theme
 * Use Flatseal for Flatpak apps
